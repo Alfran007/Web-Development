@@ -1,0 +1,16 @@
+.footer h2 {
+    color: cadetblue;
+    font-weight: 600;
+    font-style: normal;
+}
+.connect{
+    background-color: #ebae29;
+    text-align: center;
+}
+.contacts{
+    background-color: #484848;
+}
+.contacts label{
+    color: white;
+    font-style: normal;
+}

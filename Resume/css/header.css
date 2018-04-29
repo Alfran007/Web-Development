@@ -1,0 +1,34 @@
+.header {
+    background-color: #484848;
+    padding: 2em 5% 3em 4.54%;
+}
+
+.header label,
+.header p {
+    color: white;
+}
+
+.info h5,
+.page-header h1,
+.skill{
+    color: #ebae29;
+    
+}
+.header ul{
+    list-style: none;
+    padding-left: 0px;
+}
+.page-header h1{
+margin-bottom: 0px;
+font-weight: 600;
+}
+
+.page-header h1 small {
+    color: black;
+    font-size: 14px;
+}
+
+.page-header {
+    margin-bottom: 3px;
+    padding-bottom: 0px;
+}

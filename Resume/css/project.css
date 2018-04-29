@@ -1,0 +1,17 @@
+.project .row{
+    margin-left: 0px;
+}
+.project{
+    padding: 0px 5%;
+}
+.project h2{
+    color:#666;
+    font-weight: 600;
+}
+.project h6{
+    margin: 0px;
+    color: #888;
+}
+.project p{
+    font-size: 12px;
+}

@@ -1,0 +1,18 @@
+.work .row{
+    margin-left: 0px;
+}
+.work{
+    padding: 0px 5%;
+    background-color: #eee;
+}
+.work h2{
+    color:#666;
+    font-weight: 600;
+}
+.work h6{
+    margin: 0px;
+    color: #888;
+}
+.work p{
+    font-size: 12px;
+}
